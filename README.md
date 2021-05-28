@@ -50,5 +50,11 @@
 ![](/pictures/Insert.PNG)
 ## Окно3(Просмотр сотрудников)
 ![](/pictures/Grid.PNG)
-## Окно1(Просмотр последнего добавленного сотрудника)
+## Окно4(Просмотр последнего добавленного сотрудника)
 ![](/pictures/Last.PNG)
+
+# База данных
+![](/pictures/DB1.PNG)
+![](/pictures/DB2.PNG)
+![](/pictures/DB3.PNG)
+![](/pictures/DB4.PNG)
